@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: org.reluxa.AgentAttacher
+Agent-Class: org.reluxa.AgentMain
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+
+
